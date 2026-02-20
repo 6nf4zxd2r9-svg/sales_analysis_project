@@ -4,8 +4,8 @@ SALES DATABASE QUERIES
 ==============================================
 Database: sales_db
 Table: sales
-Created: [Today's Date]
-Author: [Your Name]
+Created: 2/10/2026
+Author: Uddhav Kattel
 Purpose: Analysis queries for 2024 sales data
 Available Objects:
 - Table: sales (raw sales data)
